@@ -434,6 +434,7 @@ li{
 
     .gallery .photoHidden{
         flex-basis: auto;
+        position: absolute;
     }
 }
 
